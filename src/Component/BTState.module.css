@@ -1,0 +1,39 @@
+.title {
+  background-color: rgba(0, 0, 0, 0.733);
+  color: white;
+  height: 100px;
+}
+
+.glass-model {
+  background-color: white;
+}
+
+.glass-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5%;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.glass-wrap img {
+  margin-left: 5%;
+  margin-top: 2%;
+  width: 150px;
+  height: 100px;
+}
+
+.model-right {
+  position: relative;
+}
+.virtual-glass {
+  position: absolute;
+  top: 25%;
+  left: 40%;
+  width: 200px;
+  opacity: 0.81;
+}
+
+.containerr {
+  background-color: rgba(0, 0, 0, 0.733);
+}
